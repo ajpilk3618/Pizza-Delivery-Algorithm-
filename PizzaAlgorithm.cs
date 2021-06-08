@@ -6,6 +6,7 @@ pizza choices:
     supreme
     hawaiian
     custom
+    mushroom
 order online 
 pay for pizza
 get notifications about preparing and delivering pizza
